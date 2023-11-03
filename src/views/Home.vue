@@ -26,6 +26,5 @@
 .calendar-container {
   width: 100%;
   height: 800px;
-  left: 0;
 }
 </style>
